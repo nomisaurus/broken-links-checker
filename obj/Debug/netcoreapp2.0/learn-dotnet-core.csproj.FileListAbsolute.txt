@@ -1,0 +1,10 @@
+C:\Users\mnulh\Documents\Code\learn-dotnet-core\bin\Debug\netcoreapp2.0\learn-dotnet-core.deps.json
+C:\Users\mnulh\Documents\Code\learn-dotnet-core\bin\Debug\netcoreapp2.0\learn-dotnet-core.runtimeconfig.json
+C:\Users\mnulh\Documents\Code\learn-dotnet-core\bin\Debug\netcoreapp2.0\learn-dotnet-core.runtimeconfig.dev.json
+C:\Users\mnulh\Documents\Code\learn-dotnet-core\bin\Debug\netcoreapp2.0\learn-dotnet-core.dll
+C:\Users\mnulh\Documents\Code\learn-dotnet-core\bin\Debug\netcoreapp2.0\learn-dotnet-core.pdb
+C:\Users\mnulh\Documents\Code\learn-dotnet-core\obj\Debug\netcoreapp2.0\learn-dotnet-core.csproj.CoreCompileInputs.cache
+C:\Users\mnulh\Documents\Code\learn-dotnet-core\obj\Debug\netcoreapp2.0\learn-dotnet-core.AssemblyInfoInputs.cache
+C:\Users\mnulh\Documents\Code\learn-dotnet-core\obj\Debug\netcoreapp2.0\learn-dotnet-core.AssemblyInfo.cs
+C:\Users\mnulh\Documents\Code\learn-dotnet-core\obj\Debug\netcoreapp2.0\learn-dotnet-core.dll
+C:\Users\mnulh\Documents\Code\learn-dotnet-core\obj\Debug\netcoreapp2.0\learn-dotnet-core.pdb
